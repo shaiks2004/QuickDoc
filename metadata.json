@@ -1,0 +1,6 @@
+{
+  "name": "QuickDoc Viewer",
+  "description": "Universal file viewer, editor, and AI document assistant (PDF + documents) optimized for speed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
